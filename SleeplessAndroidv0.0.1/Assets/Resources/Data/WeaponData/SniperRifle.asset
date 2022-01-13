@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13faebd1c9086394c8015978bea17896, type: 3}
+  m_Name: SniperRifle
+  m_EditorClassIdentifier: 
+  FireRate: 1
+  Damage: 75
+  Multiple: 0
+  MaxAmmo: 100
+  AmmoSize: 6
+  ReloadTime: 0.5
+  Rarity: 0
+  Price: 350
+  IsBought: 0
+  Projectile: {fileID: 4818952465191716231, guid: 97596ad5850b5ab4d883322744ba5bea,
+    type: 3}

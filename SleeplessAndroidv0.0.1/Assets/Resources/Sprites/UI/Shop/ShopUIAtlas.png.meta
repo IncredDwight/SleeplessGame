@@ -1,0 +1,718 @@
+fileFormatVersion: 2
+guid: b4ae0795a3cea2c4cb020c63951b57f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5366793317834595392
+    second: ShopUIAtlas_0
+  - first:
+      213: 1932999584550797176
+    second: ShopUIAtlas_1
+  - first:
+      213: 15490502886049792
+    second: ShopUIAtlas_2
+  - first:
+      213: -1678234863876531238
+    second: ShopUIAtlas_3
+  - first:
+      213: -7006841646456068859
+    second: ShopUIAtlas_4
+  - first:
+      213: 5247581478078721677
+    second: ShopUIAtlas_5
+  - first:
+      213: -1226948377833946546
+    second: ShopUIAtlas_6
+  - first:
+      213: 881061713820718654
+    second: ShopUIAtlas_8
+  - first:
+      213: -5873353993049811606
+    second: ShopUIAtlas_11
+  - first:
+      213: 8407740173589302432
+    second: ShopUIAtlas_12
+  - first:
+      213: -1252378171157518975
+    second: ShopUIAtlas_13
+  - first:
+      213: -1529884943144215274
+    second: ShopUIAtlas_14
+  - first:
+      213: 7371664492364609
+    second: ShopUIAtlas_16
+  - first:
+      213: 1121429597064916636
+    second: ShopUIAtlas_17
+  - first:
+      213: -1775449328716416056
+    second: ShopUIAtlas_18
+  - first:
+      213: 7358596973294890208
+    second: ShopUIAtlas_19
+  - first:
+      213: -8321318617906753398
+    second: ShopUIAtlas_21
+  - first:
+      213: -3126329169045027624
+    second: ShopUIAtlas_22
+  - first:
+      213: -524386287551832693
+    second: ShopUIAtlas_23
+  - first:
+      213: 2368582542817670805
+    second: ShopUIAtlas_24
+  - first:
+      213: 4553890525898225816
+    second: ShopUIAtlas_25
+  - first:
+      213: -2917454691708482628
+    second: ShopUIAtlas_26
+  - first:
+      213: 6976696974090114984
+    second: ShopUIAtlas_27
+  - first:
+      213: -6330624891580102460
+    second: ShopUIAtlas_28
+  - first:
+      213: 7759997984242969654
+    second: ShopUIAtlas_30
+  - first:
+      213: 1224011865824022817
+    second: ShopUIAtlas_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShopUIAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1613
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64e818df1ab5fd47a0d882486ab3006
+      internalID: -5366793317834595392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1613
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d818a4239e8baa94bab3fe13d20fa59c
+      internalID: 1932999584550797176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1613
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdd6f04d0b995f4387895699d233ed1
+      internalID: 15490502886049792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1394
+        width: 267
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ffc5ead0bcd894f8e9cbfb12c65b88
+      internalID: -1678234863876531238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1479
+        width: 300
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76be0bd40fa5d534495c86dd2306d964
+      internalID: -7006841646456068859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 942
+        width: 33
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e2c012e0d2441448472a96065ac6cc
+      internalID: 5247581478078721677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1428
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cde7ffed6fc7184fbbdbb389f83eced
+      internalID: -1226948377833946546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1443
+        width: 522
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f924d5b9dff5c40a713e27a742adf6
+      internalID: 881061713820718654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1355
+        width: 300
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0934644fa6213e041a83009011038f9e
+      internalID: -5873353993049811606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1267
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b08ece6b162f141b32be7905c2d04e
+      internalID: 8407740173589302432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1326
+        width: 295
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd4cae240248bd429799dd25d2858f7
+      internalID: -1252378171157518975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 780
+        width: 879
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2463d89e207d44a81c5f659560927f
+      internalID: -1529884943144215274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1236
+        width: 300
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825cc4cbae2a1fe4886392a991270efb
+      internalID: 7371664492364609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 990
+        width: 270
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add773ce1955f8c41966de0ad4f3ec7c
+      internalID: 1121429597064916636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1118
+        width: 300
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d81e86fe0f01f408ea241a5f241980
+      internalID: -1775449328716416056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1000
+        width: 300
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b700e3fb8865fc642be8c8d8d6989862
+      internalID: -8321318617906753398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 657
+        width: 270
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdb0fbbba3d40445aeb51c5e58b89e8
+      internalID: -3126329169045027624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 879
+        width: 300
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcc4b781f8708d4cb44dd990413c632
+      internalID: -524386287551832693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 762
+        width: 300
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122ee729b40aebd49bdd34e5582d170b
+      internalID: 2368582542817670805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 641
+        width: 300
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16702a7967a5065458adb284ba51b1de
+      internalID: 4553890525898225816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 697
+        width: 1281
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f80e85bdaab144d86f5a585f8deed7
+      internalID: -2917454691708482628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 310
+        width: 268
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1c06dda745ed240ad36307bb869ed5
+      internalID: 6976696974090114984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 55
+        width: 1271
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101a5ece89ce9544e8b1a7d8437cbe3c
+      internalID: -6330624891580102460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 269
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2c17cf3b02300478ce437b8916f41d
+      internalID: 7759997984242969654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUIAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1350
+        width: 257
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92184baf21be0934dac3ce1a79f9d37b
+      internalID: 1224011865824022817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

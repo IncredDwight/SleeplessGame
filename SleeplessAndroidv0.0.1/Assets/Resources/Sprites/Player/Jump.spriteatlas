@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Jump
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 02f35da89a5891b499723f81c4eb08b8, type: 3}
+    totalSpriteSurfaceArea: 4061682
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: 7ca5eecfa093e5f4b3d854abb6ecd288
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 99e08790ef5a5d44f83868fe43cda5fb, type: 3}
+  - {fileID: 21300000, guid: 0c17d5b03f01d9341bff9e6406bf04ab, type: 3}
+  - {fileID: 21300000, guid: 8bef0bb0970b0f0469d75a99878159a0, type: 3}
+  - {fileID: 21300000, guid: a3bd1ae028272c6479aacdfe03252dd2, type: 3}
+  - {fileID: 21300000, guid: 82f6def0feeb82e418f67af5be9e204e, type: 3}
+  - {fileID: 21300000, guid: 2216df116a88a57418666bf279946682, type: 3}
+  - {fileID: 21300000, guid: 0e99e9310814cba4ea34f8c1d2c21691, type: 3}
+  - {fileID: 21300000, guid: 60736f315c876d94890e7b8a7c74d205, type: 3}
+  - {fileID: 21300000, guid: 27541341167fa4a4187d03bd4d7722da, type: 3}
+  - {fileID: 21300000, guid: 81c11151f68ea6e45a115c8ce533d59b, type: 3}
+  - {fileID: 21300000, guid: 852ead719044a764a91c1f83cd6bdd54, type: 3}
+  - {fileID: 21300000, guid: f67252d1ab28c574d96f103a17983bed, type: 3}
+  - {fileID: 21300000, guid: 8eab37d1d70b4494db68161f180392a5, type: 3}
+  - {fileID: 21300000, guid: 5c034e12e108f6649853e4099c504010, type: 3}
+  - {fileID: 21300000, guid: 4393ec32a0822cd449a3b450cbd97f0e, type: 3}
+  - {fileID: 21300000, guid: a483105230b64174abc9a0481e0adaca, type: 3}
+  - {fileID: 21300000, guid: 01fddb526f0a56041b6a594094f4f074, type: 3}
+  - {fileID: 21300000, guid: cd6237b2f3b94b840811153966cd3d28, type: 3}
+  - {fileID: 21300000, guid: f04f2e7301ab7af4580175695b25d9a5, type: 3}
+  - {fileID: 21300000, guid: 97a1be8332a4ec343b733e99cd6f9286, type: 3}
+  - {fileID: 21300000, guid: f376519396e53334e9ed6e50009ce0df, type: 3}
+  - {fileID: 21300000, guid: 7a5fb8f39f4ee334ebc326a77fc8cc07, type: 3}
+  - {fileID: 21300000, guid: 98911e245b0eb274fa52f67d11413b1e, type: 3}
+  - {fileID: 21300000, guid: 063c3844bcaaa7945b334a3af3a79e1f, type: 3}
+  - {fileID: 21300000, guid: a427579458294d9429682be9af95512a, type: 3}
+  - {fileID: 21300000, guid: 5405d5c411b6038438fb755ab4cee4d1, type: 3}
+  - {fileID: 21300000, guid: 5fbe7625414ab454db92a020c6045a0b, type: 3}
+  - {fileID: 21300000, guid: c70ed43531653444ca008cebd3aefa19, type: 3}
+  - {fileID: 21300000, guid: dc8f36c5f6b4d6e4c8916059c1ae186b, type: 3}
+  - {fileID: 21300000, guid: 7fd75536940165c4988a00672589c7d1, type: 3}
+  - {fileID: 21300000, guid: 343eab87c02d0964c92854047a80b384, type: 3}
+  - {fileID: 21300000, guid: 8f1f2eb76fe34e14dbd7f6f31501622d, type: 3}
+  - {fileID: 21300000, guid: 779872d794c95244e89756600dae5919, type: 3}
+  - {fileID: 21300000, guid: d57a82e7561656e498aca16d3ccd0b38, type: 3}
+  - {fileID: 21300000, guid: 31083d0884ea25a4ea2775eda3a32839, type: 3}
+  - {fileID: 21300000, guid: e371a5889bf0ddd4fbf6fcddab1cf428, type: 3}
+  - {fileID: 21300000, guid: b51522a8cfb8afa499beb4639a5ad3be, type: 3}
+  - {fileID: 21300000, guid: 2fad68a892264a2478a19866e8ad314d, type: 3}
+  - {fileID: 21300000, guid: a5716aa84eaa8d447907b33dbaeb4bf2, type: 3}
+  - {fileID: 21300000, guid: 7b64010938a15c24c84946ee796dc139, type: 3}
+  - {fileID: 21300000, guid: 0c50f3895ea98d4478f00a84c3160f53, type: 3}
+  - {fileID: 21300000, guid: e6d991a9819963143a76a6aff7bdebbc, type: 3}
+  - {fileID: 21300000, guid: 3a9365a945aff6e48964a5b4d62cf3ae, type: 3}
+  - {fileID: 21300000, guid: 7d7cb79af6861014bb63e30fba1ed7b0, type: 3}
+  - {fileID: 21300000, guid: 658df5aacf5c9c341b58a0b59d99add3, type: 3}
+  - {fileID: 21300000, guid: 71bec0baf50692e4f876284512ade8c5, type: 3}
+  - {fileID: 21300000, guid: 57a6eb1bb5a155f43a37531328d68a34, type: 3}
+  - {fileID: 21300000, guid: 29a3115bfd1ec334aaf55c7915fea95a, type: 3}
+  - {fileID: 21300000, guid: 88d8d45b96d250a4c897cc8ad715c0b4, type: 3}
+  - {fileID: 21300000, guid: 0ef1f79b1fb0e2e40a80c3de914c5adb, type: 3}
+  - {fileID: 21300000, guid: 67c9d4bb98b311f46bc26a08a16926cc, type: 3}
+  - {fileID: 21300000, guid: ea72184c2de2c7549b70ac73da193aeb, type: 3}
+  - {fileID: 21300000, guid: e7ad835c806b73c46bd9fa81357235b0, type: 3}
+  - {fileID: 21300000, guid: 06d0017c9f7929642a23fc0db6b127e5, type: 3}
+  - {fileID: 21300000, guid: c1f0102de11a45b4e844d7139d16ff33, type: 3}
+  - {fileID: 21300000, guid: d80c704d0b90b8041835dc0b8a8b58a2, type: 3}
+  - {fileID: 21300000, guid: 7b5ac88de5a7d9c48b24343328d27ceb, type: 3}
+  - {fileID: 21300000, guid: 08484edd7b59a354097be165c4c79eb4, type: 3}
+  - {fileID: 21300000, guid: b4216dfd11c29fe46bd2794cd3d7f5e6, type: 3}
+  - {fileID: 21300000, guid: 6110b9cfb07b4f84b994f401776db64b, type: 3}
+  - {fileID: 21300000, guid: 47729fdf7c213d14db0a31475535fbfd, type: 3}
+  - {fileID: 21300000, guid: a2370bff706b59f47ad7a98378dcf1b5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - jump_013
+  - jump_003
+  - jump_051
+  - jump_057
+  - jump_005
+  - jump_039
+  - jump_053
+  - jump_000
+  - jump_044
+  - jump_010
+  - jump_019
+  - jump_012
+  - jump_021
+  - jump_022
+  - jump_015
+  - jump_016
+  - jump_058
+  - jump_048
+  - jump_047
+  - jump_043
+  - jump_007
+  - jump_011
+  - jump_023
+  - jump_032
+  - jump_029
+  - jump_056
+  - jump_024
+  - jump_052
+  - jump_018
+  - jump_040
+  - jump_041
+  - jump_033
+  - jump_055
+  - jump_006
+  - jump_027
+  - jump_026
+  - jump_025
+  - jump_030
+  - jump_035
+  - jump_038
+  - jump_034
+  - jump_046
+  - jump_037
+  - jump_050
+  - jump_061
+  - jump_020
+  - jump_054
+  - jump_036
+  - jump_001
+  - jump_028
+  - jump_002
+  - jump_060
+  - jump_059
+  - jump_008
+  - jump_004
+  - jump_031
+  - jump_045
+  - jump_009
+  - jump_017
+  - jump_042
+  - jump_049
+  - jump_014
+  m_Tag: Jump
+  m_IsVariant: 0
