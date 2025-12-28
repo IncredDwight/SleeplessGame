@@ -1,20 +1,21 @@
 # Sleepless (2D Platformer)
 
-A **2D platformer game** developed in **Unity** using **C#**, focused on tight player controls, level design, and gameplay systems.  
-The project explores core game-development concepts such as physics-based movement, collision handling, animations, and game state management.
+A 2D platformer game developed in Unity using C#, featuring support for both **PC and mobile controls**.  
+The game includes **7 unique maps** to explore, **7 enemy types** each with distinct gameplay mechanics, and a **weapon shop system** offering **16+ purchasable weapons** to encourage varied playstyles and replayability.
+
 
 ---
 
 ## Features
 
-- 2D platformer movement (running, jumping, falling)
-- Player physics using Unity’s Rigidbody2D system
-- Collision-based interactions (platforms, hazards, level boundaries)
-- Scene-based level structure
-- Custom C# scripts for gameplay logic
-- Sprite-based animations
-- Keyboard input handling
-
+- Physics-based 2D platformer movement using **Rigidbody2D**
+- Cross-platform input support (PC & mobile)
+- **7 handcrafted maps** with increasing difficulty
+- **7 enemy archetypes** with unique AI and combat behaviors
+- **Weapon shop system** featuring **16+ weapons**
+- Collision-driven gameplay (environment, enemies, hazards)
+- Modular C# gameplay scripts for extensibility
+- Sprite animation system for characters and effects
 ---
 
 ## Tech Stack
