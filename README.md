@@ -42,4 +42,4 @@ The project explores core game-development concepts such as physics-based moveme
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-![Gameplay Demo](video/gameplay.mp4)
+
