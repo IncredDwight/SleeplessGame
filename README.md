@@ -10,10 +10,9 @@ The game includes **7 unique maps** to explore, **7 enemy types** each with dist
 
 - Physics-based 2D platformer movement using **Rigidbody2D**
 - Cross-platform input support (PC & mobile)
-- **7 handcrafted maps** with increasing difficulty
-- **7 enemy archetypes** with unique AI and combat behaviors
+- **7 maps** increasing difficulty
+- **7 enemy archetypes** with unique combat behaviors
 - **Weapon shop system** featuring **16+ weapons**
-- Collision-driven gameplay (environment, enemies, hazards)
 - Modular C# gameplay scripts for extensibility
 - Sprite animation system for characters and effects
 ---
